@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizList</string>
+    <string name="add_text">Añadir</string>
+    <string name="textLicense">Placa</string>
+    <string name="textBrand">Marca</string>
+    <string name="textModel">Modelo</string>
+</resources>
